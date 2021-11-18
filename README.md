@@ -1,6 +1,28 @@
 # Obsidian-Dice-Roller-Tables
-This is a collection of Dice Roller Tables that I use to run my DND campaigns! Feel free to fork, remix, and tweak to suit your needs!
+This is a collection of Dice Roller Tables that I use to run my DND campaigns! Feel free to fork, remix, and tweak to suit your needs! I'm also open to pull requests!
 
+## Overview
+At the moment I have the following pages:
+
+- [[_Full Name Dice Table]]
+	- This is the **full** list of names from [this perchance](https://perchance.org/3hkuvlg5o3), which has **7725** lines. Because of that, merely loading the file or running it takes a few seconds! To fix that I ran a script that randomly selected 2k names from the list and chose to use that. The script is near the end of this readme!
+- [[_Implementations]]
+	- Go here to see some of the implementations of the tables!
+- [[Misc Dice Tables]]
+	- A collection of tables that don't belong elsewhere
+- [[Name Dice Tables]]
+	- All the tables relating to names! Feel free to go in here and add tweak some!
+- [[NPC Dice Tables]]
+	- All tables related to NPC generation! 
+- [[Race Dice Tables]]
+	- The tables related to race generation! This is especially modified for my campaign, so feel free to mess around with this and shuffle some other races in or out!
+- [[Tarot Dice Tables]]
+	- Tarot, but in dice form! I use this a lot to get the vibe of a place, or for associating it to a character. 
+
+
+## Optional Scripts
+
+### txt2dice
 If you're interested, I also wrote a small script called txt2dice to convert any txt file list (with each item on a newline) in python3! Save the below code and run it as `py path/to/txt2dice.py path/to/file-name.txt`
 
 ```python
@@ -49,4 +71,39 @@ else:
 
 print(f"Converted and saved to {args.output}!")
 #print(mdTable)
+```
+
+```python
+from random import randint
+with open(f'name-list.txt') as afile:
+    listOfLines = afile.read().splitlines() 
+newnames = ""
+
+for i in range (0,2000):
+    newnames += listOfLines.pop(randint(0,len(listOfLines)-1)) + "\n"
+
+
+text_file = open(f"narrowed-names.txt", "w")
+text_file.write(newnames)
+text_file.close()
+```
+
+### narrow-down-names
+This is a quick and dirty program to make that **long** list of names into a much smaller list!
+
+Here it is, keep in mind the file names are hardcoded!
+
+```python
+from random import randint
+with open(f'name-list.txt') as afile:
+    listOfLines = afile.read().splitlines() 
+newnames = ""
+
+for i in range (0,2000):
+    newnames += listOfLines.pop(randint(0,len(listOfLines)-1)) + "\n"
+
+
+text_file = open(f"narrowed-names.txt", "w")
+text_file.write(newnames)
+text_file.close()
 ```
