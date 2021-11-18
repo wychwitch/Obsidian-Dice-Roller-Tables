@@ -1,7 +1,7 @@
 # Obsidian-Dice-Roller-Tables
 This is a collection of Dice Roller Tables that I use to run my DND campaigns! Feel free to fork, remix, and tweak to suit your needs!
 
-If you're interested, I also wrote a small script to convert any txt file list (with each item on a newline) in python3! Save the below code and run it as `py txt2dice.py file-name.txt`
+If you're interested, I also wrote a small script called txt2dice to convert any txt file list (with each item on a newline) in python3! Save the below code and run it as `py path/to/txt2dice.py path/to/file-name.txt`
 
 ```python
 import argparse
