@@ -5,6 +5,10 @@ This is a collection of Dice Roller Tables that I use to run my DND campaigns! F
 
 It's also recommended that you turn off *Display formula with results*, *Display Lookup Table Roll*, and *Show Dice Button* for maximum compatibility!
 
+## Example of NPC Generator
+![2hDw43Oiub](https://user-images.githubusercontent.com/1291820/142545127-0690300d-1f55-4563-a523-0a2e715d483f.gif)
+
+
 ## Overview
 At the moment I have the following pages:
 - [[_Implementations]]
