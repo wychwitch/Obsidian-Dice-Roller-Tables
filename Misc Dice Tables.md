@@ -2,40 +2,293 @@
 ## NPC
 
 
-| dice: 1d31 | Color       |
-| ---------- | ----------- |
-| 1          | Red         |
-| 2          | Orange      |
-| 3          | Yellow      |
-| 4          | Green       |
-| 5          | Blue        |
-| 6          | Indigo      |
-| 7          | Violet      |
-| 8          | Ivory       |
-| 9          | Grey        |
-| 10         | Brown       |
-| 11         | Ruby        |
-| 12         | Citrine     |
-| 13         | Amber       |
-| 14         | Emerald     |
-| 15         | Sapphire    |
-| 16         | Amethyst    |
-| 17         | Diamond     |
-| 18         | Pearl       |
-| 19         | Iridescent  |
-| 20         | Opal        |
-| 21         | Onyx        |
-| 22         | Cinnabar    |
-| 23         | Ochre       |
-| 24         | Gold        |
-| 25         | Lapis       |
-| 26         | Malachite   |
-| 27         | Azurite     |
-| 28         | Bronze      |
-| 29         | Silver      |
-| 30         | Iron        |
-| 31         | Clear/Sheer |
+| dice: 1d140 | Colors|
+| ---- | ---- |
+|1|Alice Blue|
+|2|Antique White|
+|3|Aqua|
+|4|Aquamarine|
+|5|Azure|
+|6|Beige|
+|7|Bisque|
+|8|Black|
+|9|Blanched Almond|
+|10|Blue|
+|11|Blue Violet|
+|12|Brown|
+|13|Burly Wood|
+|14|Cadet Blue|
+|15|Chartreuse|
+|16|Chocolate|
+|17|Coral|
+|18|Cornflower Blue|
+|19|Cornsilk|
+|20|Crimson|
+|21|Cyan|
+|22|Dark Blue|
+|23|Dark Cyan|
+|24|Dark Golden Rod|
+|25|Dark Gray|
+|26|Dark Green|
+|27|Dark Khaki|
+|28|Dark Magenta|
+|29|Dark Olive Green|
+|30|Dark Orange|
+|31|Dark Orchid|
+|32|Dark Red|
+|33|Dark Salmon|
+|34|Dark Sea Green|
+|35|Dark Slate Blue|
+|36|Dark Slate Gray|
+|37|Dark Turquoise|
+|38|Dark Violet|
+|39|Deep Pink|
+|40|Deep Sky Blue|
+|41|Dim Gray|
+|42|Dodger Blue|
+|43|Fire Brick|
+|44|Floral White|
+|45|Forest Green|
+|46|Fuchsia|
+|47|Gainsboro|
+|48|Ghost White|
+|49|Gold|
+|50|Golden Rod|
+|51|Gray|
+|52|Green|
+|53|Green Yellow|
+|54|Honey Dew|
+|55|Hot Pink|
+|56|Indian Red |
+|57|Indigo |
+|58|Ivory|
+|59|Khaki|
+|60|Lavender|
+|61|Lavender Blush|
+|62|Lawn Green|
+|63|Lemon Chiffon|
+|64|Light Blue|
+|65|Light Coral|
+|66|Light Cyan|
+|67|Light Golden Rod Yellow|
+|68|Light Gray|
+|69|Light Green|
+|70|Light Pink|
+|71|Light Salmon|
+|72|Light Sea Green|
+|73|Light Sky Blue|
+|74|Light Slate Gray|
+|75|Light Steel Blue|
+|76|Light Yellow|
+|77|Lime|
+|78|Lime Green|
+|79|Linen|
+|80|Magenta|
+|81|Maroon|
+|82|Medium Aqua Marine|
+|83|Medium Blue|
+|84|Medium Orchid|
+|85|Medium Purple|
+|86|Medium Sea Green|
+|87|Medium Slate Blue|
+|88|Medium Spring Green|
+|89|Medium Turquoise|
+|90|Medium Violet Red|
+|91|Midnight Blue|
+|92|Mint Cream|
+|93|Misty Rose|
+|94|Moccasin|
+|95|Navajo White|
+|96|Navy|
+|97|Old Lace|
+|98|Olive|
+|99|Olive Drab|
+|100|Orange|
+|101|Orange Red|
+|102|Orchid|
+|103|Pale Golden Rod|
+|104|Pale Green|
+|105|Pale Turquoise|
+|106|Pale Violet Red|
+|107|Papaya Whip|
+|108|Peach Puff|
+|109|Peru|
+|110|Pink|
+|111|Plum|
+|112|Powder Blue|
+|113|Purple|
+|114|Red|
+|115|Rosy Brown|
+|116|Royal Blue|
+|117|Saddle Brown|
+|118|Salmon|
+|119|Sandy Brown|
+|120|Sea Green|
+|121|Sea Shell|
+|122|Sienna|
+|123|Silver|
+|124|Sky Blue|
+|125|Slate Blue|
+|126|Slate Gray|
+|127|Snow|
+|128|Spring Green|
+|129|Steel Blue|
+|130|Tan|
+|131|Teal|
+|132|Thistle|
+|133|Tomato|
+|134|Turquoise|
+|135|Violet|
+|136|Wheat|
+|137|White|
+|138|White Smoke|
+|139|Yellow|
+|140|Yellow Green|
 ^color
+
+| dice: 1d140 | Colors With Hex|
+| ---- | ---- |
+|1|Alice Blue (#F0F8FF)|
+|2|Antique White (#FAEBD7)|
+|3|Aqua (#00FFFF)|
+|4|Aquamarine (#7FFFD4)|
+|5|Azure (#F0FFFF)|
+|6|Beige (#F5F5DC)|
+|7|Bisque (#FFE4C4)|
+|8|Black (#000000)|
+|9|Blanched Almond (#FFEBCD)|
+|10|Blue (#0000FF)|
+|11|Blue Violet (#8A2BE2)|
+|12|Brown (#A52A2A)|
+|13|Burly Wood (#DEB887)|
+|14|Cadet Blue (#5F9EA0)|
+|15|Chartreuse (#7FFF00)|
+|16|Chocolate (#D2691E)|
+|17|Coral (#FF7F50)|
+|18|Cornflower Blue (#6495ED)|
+|19|Cornsilk (#FFF8DC)|
+|20|Crimson (#DC143C)|
+|21|Cyan (#00FFFF)|
+|22|Dark Blue (#00008B)|
+|23|Dark Cyan (#008B8B)|
+|24|Dark Golden Rod (#B8860B)|
+|25|Dark Gray (#A9A9A9)|
+|26|Dark Green (#006400)|
+|27|Dark Khaki (#BDB76B)|
+|28|Dark Magenta (#8B008B)|
+|29|Dark Olive Green (#556B2F)|
+|30|Dark Orange (#FF8C00)|
+|31|Dark Orchid (#9932CC)|
+|32|Dark Red (#8B0000)|
+|33|Dark Salmon (#E9967A)|
+|34|Dark Sea Green (#8FBC8F)|
+|35|Dark Slate Blue (#483D8B)|
+|36|Dark Slate Gray (#2F4F4F)|
+|37|Dark Turquoise (#00CED1)|
+|38|Dark Violet (#9400D3)|
+|39|Deep Pink (#FF1493)|
+|40|Deep Sky Blue (#00BFFF)|
+|41|Dim Gray (#696969)|
+|42|Dodger Blue (#1E90FF)|
+|43|Fire Brick (#B22222)|
+|44|Floral White (#FFFAF0)|
+|45|Forest Green (#228B22)|
+|46|Fuchsia (#FF00FF)|
+|47|Gainsboro (#DCDCDC)|
+|48|Ghost White (#F8F8FF)|
+|49|Gold (#FFD700)|
+|50|Golden Rod (#DAA520)|
+|51|Gray (#808080)|
+|52|Green (#008000)|
+|53|Green Yellow (#ADFF2F)|
+|54|Honey Dew (#F0FFF0)|
+|55|Hot Pink (#FF69B4)|
+|56|Indian Red  (#CD5C5C)|
+|57|Indigo  (#4B0082)|
+|58|Ivory (#FFFFF0)|
+|59|Khaki (#F0E68C)|
+|60|Lavender (#E6E6FA)|
+|61|Lavender Blush (#FFF0F5)|
+|62|Lawn Green (#7CFC00)|
+|63|Lemon Chiffon (#FFFACD)|
+|64|Light Blue (#ADD8E6)|
+|65|Light Coral (#F08080)|
+|66|Light Cyan (#E0FFFF)|
+|67|Light Golden Rod Yellow (#FAFAD2)|
+|68|Light Gray (#D3D3D3)|
+|69|Light Green (#90EE90)|
+|70|Light Pink (#FFB6C1)|
+|71|Light Salmon (#FFA07A)|
+|72|Light Sea Green (#20B2AA)|
+|73|Light Sky Blue (#87CEFA)|
+|74|Light Slate Gray (#778899)|
+|75|Light Steel Blue (#B0C4DE)|
+|76|Light Yellow (#FFFFE0)|
+|77|Lime (#00FF00)|
+|78|Lime Green (#32CD32)|
+|79|Linen (#FAF0E6)|
+|80|Magenta (#FF00FF)|
+|81|Maroon (#800000)|
+|82|Medium Aqua Marine (#66CDAA)|
+|83|Medium Blue (#0000CD)|
+|84|Medium Orchid (#BA55D3)|
+|85|Medium Purple (#9370DB)|
+|86|Medium Sea Green (#3CB371)|
+|87|Medium Slate Blue (#7B68EE)|
+|88|Medium Spring Green (#00FA9A)|
+|89|Medium Turquoise (#48D1CC)|
+|90|Medium Violet Red (#C71585)|
+|91|Midnight Blue (#191970)|
+|92|Mint Cream (#F5FFFA)|
+|93|Misty Rose (#FFE4E1)|
+|94|Moccasin (#FFE4B5)|
+|95|Navajo White (#FFDEAD)|
+|96|Navy (#000080)|
+|97|Old Lace (#FDF5E6)|
+|98|Olive (#808000)|
+|99|Olive Drab (#6B8E23)|
+|100|Orange (#FFA500)|
+|101|Orange Red (#FF4500)|
+|102|Orchid (#DA70D6)|
+|103|Pale Golden Rod (#EEE8AA)|
+|104|Pale Green (#98FB98)|
+|105|Pale Turquoise (#AFEEEE)|
+|106|Pale Violet Red (#DB7093)|
+|107|Papaya Whip (#FFEFD5)|
+|108|Peach Puff (#FFDAB9)|
+|109|Peru (#CD853F)|
+|110|Pink (#FFC0CB)|
+|111|Plum (#DDA0DD)|
+|112|Powder Blue (#B0E0E6)|
+|113|Purple (#800080)|
+|114|Red (#FF0000)|
+|115|Rosy Brown (#BC8F8F)|
+|116|Royal Blue (#4169E1)|
+|117|Saddle Brown (#8B4513)|
+|118|Salmon (#FA8072)|
+|119|Sandy Brown (#F4A460)|
+|120|Sea Green (#2E8B57)|
+|121|Sea Shell (#FFF5EE)|
+|122|Sienna (#A0522D)|
+|123|Silver (#C0C0C0)|
+|124|Sky Blue (#87CEEB)|
+|125|Slate Blue (#6A5ACD)|
+|126|Slate Gray (#708090)|
+|127|Snow (#FFFAFA)|
+|128|Spring Green (#00FF7F)|
+|129|Steel Blue (#4682B4)|
+|130|Tan (#D2B48C)|
+|131|Teal (#008080)|
+|132|Thistle (#D8BFD8)|
+|133|Tomato (#FF6347)|
+|134|Turquoise (#40E0D0)|
+|135|Violet (#EE82EE)|
+|136|Wheat (#F5DEB3)|
+|137|White (#FFFFFF)|
+|138|White Smoke (#F5F5F5)|
+|139|Yellow (#FFFF00)|
+|140|Yellow Green (#9ACD32)|
+^colors-with-hex
 
 # Magic Item Generator Tables
 ### Main

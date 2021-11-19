@@ -1,13 +1,14 @@
 # Obsidian-Dice-Roller-Tables
 This is a collection of Dice Roller Tables that I use to run my DND campaigns! Feel free to fork, remix, and tweak to suit your needs! I'm also open to pull requests!
 
+**Please update to the latest version of the dice roller and buttons plugins to be able to use these pages!**
+
+It's also recommended that you turn off *Display formula with results*, *Display Lookup Table Roll*, and *Show Dice Button* for maximum compatibility!
+
 ## Overview
 At the moment I have the following pages:
-
-- [[_Full Name Dice Table]]
-	- This is the **full** list of names from [this perchance](https://perchance.org/3hkuvlg5o3), which has **7725** lines. Because of that, merely loading the file or running it takes a few seconds! To fix that I ran a script that randomly selected 2k names from the list and chose to use that. The script is near the end of this readme!
 - [[_Implementations]]
-	- Go here to see some of the implementations of the tables!
+	- Go here to see some of the implementations of the tables! Right now it's only a NPC generator!
 - [[Misc Dice Tables]]
 	- A collection of tables that don't belong elsewhere
 - [[Name Dice Tables]]

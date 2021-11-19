@@ -22,6 +22,13 @@ They generally have a `dice: [[NPC Dice Tables#^disposition-alt]]` disposition. 
 
 Their goals are `dice: [[NPC Dice Tables#^goals]]`.
 
-They are associated with `dice: #dnd/factions|link` .
+These tarot cards are heavily associated with them: 
+- Overall Card: `dice: [[Tarot Dice Tables#^main]]`
+- Fortune: `dice: [[Tarot Dice Tables#^main-fortune]]`
+- Keywords:
+	- `dice: [[Tarot Dice Tables#^main-keywords]]`
+	- `dice: [[Tarot Dice Tables#^main-keywords]]`
+	- `dice: [[Tarot Dice Tables#^main-keywords]]`
 
-This tarot card is heavily associated with them: `dice: [[Tarot Dice Tables#^main]]`
+
+`dice: [[Name Dice Tables#^names]]`&#8203;`dice: [[Name Dice Tables#^femme]]`

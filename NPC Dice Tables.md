@@ -22,32 +22,32 @@
 ^alignment2
 
 | dice: 1d22 | Goals                          |
-| --------- | ------------------------------ |
-| 1         | A better life                  |
-| 2         | Enligthenment                  |
-| 3         | Infamy                         |
-| 4         | Acceptance                     |
-| 5         | Fame                           |
-| 5         | To Infiltrate Opposing Faction |
-| 6         | To Acquire a Special Item      |
-| 7         | Justice                        |
-| 8         | To Craft A Special Item        |
-| 9         | Glory                          |
-| 10        | To Destroy Special Item        |
-| 11        | To Impress Someone             |
-| 12        | To Locate Someone              |
-| 13        | To Resolve Dispute             |
-| 14        | Love                           |
-| 15        | Mastery                        |
-| 16        | To Reveal A Secret             |
-| 17        | To Serve Ideology              |
-| 18        | Power                          |
-| 19        | Revenge                        |
-| 18        | To Serve their Leader          |
-| 19        | To Reach A Location            |
-| 20        | To Sabotage Opposing Faction   |
-| 21        | To Rescue Someon               |
-| 22        | Wealth                         |
+| ---------- | ------------------------------ |
+| 1          | A better life                  |
+| 2          | Enlightenment                  |
+| 3          | Infamy                         |
+| 4          | Acceptance                     |
+| 5          | Fame                           |
+| 5          | To Infiltrate Opposing Faction |
+| 6          | To Acquire a Special Item      |
+| 7          | Justice                        |
+| 8          | To Craft A Special Item        |
+| 9          | Glory                          |
+| 10         | To Destroy Special Item        |
+| 11         | To Impress Someone             |
+| 12         | To Locate Someone              |
+| 13         | To Resolve Dispute             |
+| 14         | Love                           |
+| 15         | Mastery                        |
+| 16         | To Reveal A Secret             |
+| 17         | To Serve Ideology              |
+| 18         | Power                          |
+| 19         | Revenge                        |
+| 18         | To Serve their Leader          |
+| 19         | To Reach A Location            |
+| 20         | To Sabotage Opposing Faction   |
+| 21         | To Rescue Someone              |
+| 22         | Wealth                         |
 ^goals
 
 This is weighted to lean more neutral
@@ -58,8 +58,8 @@ This is weighted to lean more neutral
 | 11-20       | Friendly     |
 | 21-30       | Helpful      |
 | 31-80       | Neutral      |
-| 81-90      | Apprehensive |
-| 91-100     | Hostile      |
+| 81-90       | Apprehensive |
+| 91-100      | Hostile      |
 | 101-110     | Violent      |
 ^disposition
 
@@ -140,14 +140,15 @@ This has equal chances for all dispositions!
 | 34         | Child       | 
 ^jobs
 
-%%%
-This currently does not work, but hopefully will one day!
-| dice: 1dx | Connections                                         |
-| --------- | --------------------------------------------------- |
-| 1         | They are associated with `dice: #dnd/factions|link` |
-| 2         | They're from `dice: #dnd/pc|link`'s past            |
-| 3         | They know `dice: #dnd/pc|link`                      |
-| 4         | They know `dice: #dnd/npc|link`                     |
 
-They are associated with `dice: #dnd/factions|link` 
-%%%
+This currently does not work, but hopefully will one day!
+
+| dice: 1d4 | Connections                                         |
+| --------- | --------------------------------------------------- |
+| 1         | They are associated with `dice: #dnd/factions\|link` |
+| 2         | They're from `dice: #dnd/pc\|link`'s past            |
+| 3         | They know `dice: #dnd/pc\|link`                      |
+| 4         | They know `dice: #dnd/npc\|link`                     |
+^connections
+
+`dice: [[NPC Dice Tables#^connections]]`
