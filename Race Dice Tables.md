@@ -1,4 +1,4 @@
-# Race Dice Tavles
+# Race Dice Tables
 
 Random Race: `dice: [[Race Dice Tables#^main]]`
 

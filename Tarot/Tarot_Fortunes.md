@@ -411,7 +411,7 @@
 
 | dice: 1d1 | four of coins|
 | ---- | ---- |
-|1|Four Of Coins - A rainy day is coming—it's time to save|
+|1|Four Of Coins - A rainy day is comingï¿½it's time to save|
 ^four-of-coins
 
 | dice: 1d2 | five of coins|
