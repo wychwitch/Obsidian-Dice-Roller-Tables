@@ -8,6 +8,10 @@ It's also recommended that you turn off *Display formula with results*, *Display
 ## Example of NPC Generator
 ![2hDw43Oiub](https://user-images.githubusercontent.com/1291820/142545127-0690300d-1f55-4563-a523-0a2e715d483f.gif)
 
+## Example of Rant NPC Generator
+![Obsidian_v0MHEjeV14](https://user-images.githubusercontent.com/1291820/153722698-839ef87a-3cd7-4fb6-be8a-6dfe0b503b1f.gif)
+
+
 ## Overview
 At the moment I have the following pages:
 - [[New NPC Generator]]
