@@ -1,7 +1,7 @@
 # Obsidian-Dice-Roller-Tables
-This is a collection of Dice Roller Tables that I use to run my DND campaigns! Feel free to fork, remix, and tweak to suit your needs! I'm also open to pull requests!
+This is a collection of Dice Roller Tables (and some Rant generators) that I use to run my DND campaigns! Feel free to fork, remix, and tweak to suit your needs! I'm also open to pull requests!
 
-**Please update to the latest version of the dice roller and buttons plugins to be able to use these pages!**
+**Please update to the latest version of the dice roller, buttons, and Rant plugins to be able to use these pages!**
 
 It's also recommended that you turn off *Display formula with results*, *Display Lookup Table Roll*, and *Show Dice Button* for maximum compatibility!
 
@@ -10,6 +10,8 @@ It's also recommended that you turn off *Display formula with results*, *Display
 
 ## Overview
 At the moment I have the following pages:
+- [[New NPC Generator]]
+  - The new npc generator utilizing the powers of rant! Since rant is still in development, an update may temporarily break things! I'll try to update as soon as possible
 - [[_Example Generators]]
 	- Go here to see some of the implementations of the tables! Right now it's only a NPC generator!
 - [[Misc Dice Tables]]
